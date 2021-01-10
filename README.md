@@ -1,2 +1,2 @@
 # Kaggle-Competition
-Machine Learning Kaggle Competitons
+Machine Learning Projects using Kaggle Dataset
